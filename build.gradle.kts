@@ -1,9 +1,7 @@
 subprojects {
     buildscript {
-        dependencies {
-            repositories {
-                google()
-            }
+        repositories {
+            google()
         }
     }
 }
