@@ -1,6 +1,6 @@
 plugins {
     id("com.starter.application.android") version "0.18.0"
-    id("com.starter.easylauncher") version "3.2.0"
+    id("com.starter.easylauncher") version "3.2.1"
 }
 
 android {
